@@ -1,0 +1,13 @@
+<svg width="172" height="40" viewBox="0 0 172 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" rx="20" transform="matrix(-1 0 0 1 40 0)" fill="#FFF0F5"/>
+<path d="M14.6663 20L25.333 20" stroke="#9D097C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.9995 23.3334C17.9995 23.3334 14.6662 20.8785 14.6662 20.0001C14.6662 19.1217 17.9995 16.6667 17.9995 16.6667" stroke="#9D097C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="68" cy="20" r="4" fill="#9D097C"/>
+<circle cx="68" cy="20" r="11.5" stroke="#9D097C"/>
+<circle cx="90" cy="20" r="2" fill="#32334C"/>
+<circle cx="102" cy="20" r="2" fill="#32334C"/>
+<circle cx="114" cy="20" r="2" fill="#32334C"/>
+<rect x="132" width="40" height="40" rx="20" fill="#FFF0F5"/>
+<path d="M157.334 20L146.667 20" stroke="#9D097C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M154.001 23.3334C154.001 23.3334 157.334 20.8785 157.334 20.0001C157.334 19.1217 154 16.6667 154 16.6667" stroke="#9D097C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

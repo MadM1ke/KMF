@@ -1,0 +1,13 @@
+<svg width="164" height="40" viewBox="0 0 164 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" rx="20" transform="matrix(-1 0 0 1 40 0)" fill="white"/>
+<path d="M14.6666 19.9999L25.3333 19.9999" stroke="#9D097C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.9997 23.3334C17.9997 23.3334 14.6664 20.8784 14.6664 20C14.6664 19.1216 17.9998 16.6667 17.9998 16.6667" stroke="#9D097C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="48" width="40" height="40" rx="20" fill="white"/>
+<path d="M73.3334 19.9999L62.6667 19.9999" stroke="#9D097C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0003 23.3334C70.0003 23.3334 73.3336 20.8784 73.3336 20C73.3336 19.1216 70.0002 16.6667 70.0002 16.6667" stroke="#9D097C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="116" cy="20" r="4" fill="#9D097C"/>
+<circle cx="116" cy="20" r="11.5" stroke="#9D097C"/>
+<circle cx="138" cy="20" r="2" fill="#32334C"/>
+<circle cx="150" cy="20" r="2" fill="#32334C"/>
+<circle cx="162" cy="20" r="2" fill="#32334C"/>
+</svg>
